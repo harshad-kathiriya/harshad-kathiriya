@@ -2,8 +2,6 @@
 
 I'm Harshad Kathiriya. I'm a Full Stack Developer from India. 
 
-I am passionate about upskilling my knowledge.
-
 I consider myself a person with a hunger for knowledge and always looking for new ideas to improve what the market has to offer.
 
 When I am not opening editor, I go for a long drive, watch movies and try new foods.  
