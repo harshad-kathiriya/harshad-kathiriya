@@ -8,6 +8,10 @@ When I am not opening editor, I go for a long drive, watch movies and try new fo
 
 <p><a href="https://harshad.dev/">:pushpin: Check out my website</a></p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=harshad-kathiriya&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=harshad-kathiriya&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **harshad-kathiriya/harshad-kathiriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
