@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Harshad Kathiriya. I'm a Full Stack Developer from India. 
+I'm Harshad Kathiriya, a Full Stack Developer from India. 
 
 I consider myself a person with a hunger for knowledge and always looking for new ideas to improve what the market has to offer.
 
